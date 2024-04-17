@@ -33,7 +33,7 @@ staffs_lst_2 = [
     ['btn_16', 'LÊ HUỲNH ANH KHOA', '234168', 'B/T', 'RD'],
     ['btn_17', 'NGUYỄN MAI PHƯƠNG', '234170', 'TEST REQUEST', 'RD'],
     ['btn_18', 'PHẠM NG NGỌC TUYẾT', '234172', 'TEST REQUEST', 'RD']
-]
+];
 
 var buttons = document.getElementsByClassName("btn");
 
